@@ -46,6 +46,8 @@ https://wa.me/6281234567890
 1. Pastikan semua tombol WhatsApp aktif
 2. Pastikan kategori sesuai pembagian anggota kelompok
 3. Code yang di ubah cukup bagian nomor chatbot saja
+4. Pastikan membuat branch lokal terlebih dahulu sebelum develop
+5. Push code ke branch lokal yang sudah di buat kemudian di merge ke branch main jika sudah tidak terdapat error
 
 # Pembagian Kategori
 | Anggota   | Kategori         |
