@@ -50,10 +50,10 @@ https://wa.me/6281234567890
 5. Push code ke branch lokal yang sudah di buat kemudian di merge ke branch main jika sudah tidak terdapat error
 
 # Pembagian Kategori
-| Anggota   | Kategori         |
-| --------- | ---------------- |
-| Danot     | Smartphone       |
-| Daffa     | Tablets          |
-| Anggota 3 | Galaxy AI        |
-| Anggota 4 | Home Appliances  |
-| Anggota 5 | Galaxy Ecosystem |
+| Anggota       | Kategori         |
+| ------------- | ---------------- |
+| MOCHAMAD FAHRUL FIRMAN DANY    | Smartphone       |
+| DAFFA YUSUF MAHENDRA  | Tablets          |
+| DHINI JULIA NINGRUM           | Galaxy AI        |
+| DEWI NANDA TELUSSA           | Home Appliances  |
+| SHAQUILLE RAYHANNIZAM WIBISONO             | Galaxy Ecosystem |
